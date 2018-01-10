@@ -16,4 +16,4 @@ Step 3 : Enter the text file name without extension. Downloading should start no
 
 This program will be useful to download images for training Mahine Learning models.
 
-**Note: This progrsm is intented to run in python3.**
+**Note: This program is intented to run in python3.**
