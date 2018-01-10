@@ -8,7 +8,7 @@ import calendar
 
 print("** Make sure loaded Url's into the text file **\n")
 
-item_name = input("Enter Url's text file name (Without extension): ").title()
+item_name = input("Enter Url's text file name: ").title()
 filename = item_name+".txt"
 
 
