@@ -1,5 +1,5 @@
 # Image-Downloader
-This python program can be used to download images using their links.
+This python program can be used to download images using their links.  
 **In Windows**  
 Step 1 : Store the links in a text file    
 Step 2 : Run the python program    
